@@ -22,9 +22,9 @@ import farmPhoto20 from '../images/farmPhoto20.jpg';
 import farmPhoto21 from '../images/farmPhoto21.jpg';
 import farmPhoto22 from '../images/farmPhoto22.jpg';
 import farmPhoto23 from '../images/farmPhoto23.jpg';
-import farmPhoto24 from '../images/farmPhoto24.jpg';
+import farmPhoto24 from '../images/farmPhoto23.jpg';
 import './PhotoGallery.css';  
-
+//omkar ki bandi ki code hai ye
 const farmPhotos = [
   { src: farmPhoto1, name: 'Farmer with Crops' },
   { src: farmPhoto2, name: 'Harvesting Wheat' },
