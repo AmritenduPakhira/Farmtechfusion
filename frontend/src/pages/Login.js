@@ -9,7 +9,7 @@ const Login = () => {
     const enteredUsername = document.getElementById('loginEmail').value;
     const enteredPassword = document.getElementById('loginPassword').value;
 
-    // Toggle each alphabet in the username
+    // Toggle each alphabet in the username omkar
     const toggledUsername = enteredUsername.split('').map(char => {
       if (char === char.toLowerCase()) {
         return char.toUpperCase();
